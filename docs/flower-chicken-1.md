@@ -1,3 +1,3 @@
 # Flower Chicken
 
-A plucky chicken must splant flowers before the world ends.
+A plucky chicken must plant flowers before the world ends.
