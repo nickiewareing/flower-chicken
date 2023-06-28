@@ -1,0 +1,5 @@
+site_name: Flower Chicken Docs
+
+nav:
+  - MkDocs Introduction: index.md
+  - Flower Chicken I: flower-chicken-1
