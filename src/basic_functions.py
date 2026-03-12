@@ -1,4 +1,5 @@
 from typing     import List
+import numpy as np
 
 # these functions are a load of nothing
 # just want to test github actions
