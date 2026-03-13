@@ -7,11 +7,16 @@ import numpy as np
 
 def return_greeting(
         name: str, greeting: str = 'Hi'):
-    print(f"{greeting} {name}")
+    """
+    Returns greeting based on name and greeting..
+    """
+    return f"{greeting} {name}"
 
 
 def return_even_numbers(nums: List[str]):
-    
+    '''
+    Returns list of even numbers from list of numbers.
+    '''
     evens = []
     for num in nums:
         r= num % 2
