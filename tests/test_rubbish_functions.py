@@ -7,4 +7,4 @@ def test_return_greeting():
 
 def test_sum():
     nums = [1, 2, 3]
-    assert basic_functions.add_numbers_in_list(nums) == 6
+    assert basic_functions.return_even_numbers(nums) == [2]

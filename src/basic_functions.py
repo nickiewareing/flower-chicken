@@ -7,15 +7,15 @@ import numpy as np
 
 def return_greeting(
         name: str, greeting: str = 'Hi'):
-    print(
-        
-        f"{greeting} {name}")
+    print(f"{greeting} {name}")
 
 
-def add_numbers_in_list(nums: List[str]):
-    return sum(
-        
-        
-        
-        
-        nums)
+def return_even_numbers(nums: List[str]):
+    
+    evens = []
+    for num in nums:
+        r= num % 2
+
+        if r ==0:
+            evens.append(r)
+    return evens
